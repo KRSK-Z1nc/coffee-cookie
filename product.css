@@ -339,8 +339,8 @@ header .fa-bars{
     color: #eee;
 }
 
-.review .box-container .box .star i{
-    color: var(--coffee);
+.review .box-container .box .stars i{
+    color: #fdd817;
     font-size: 2rem;
 }
 
